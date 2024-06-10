@@ -3,7 +3,7 @@
 <!--
 **ProfIvanilda/ProfIvanilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:Olá meu nome é Ivanilda, sou professora de Matemática e este ano estou lecionando Matemática para os  1o. ano do Ensino Médio ( 4 turmas) e Tecnologia e Robótica para os 2o.ano do Ensino Medio ( 2 turmas).
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
