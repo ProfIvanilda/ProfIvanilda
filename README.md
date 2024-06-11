@@ -10,4 +10,4 @@ Meu nome é IVANILDA.
   ### Meu contato📫
   ivanildafernandes@prof.educacao.sp.gov.br
 
-![](https://tenor.com/pt-BR/view/class-studying-teacher-via-vallen-study-gif-15529365)
+![](https://media.tenor.com/FH_GVnTTTKAAAAAM/naruto-and-sasuke.gif)
