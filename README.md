@@ -1,16 +1,13 @@
-## Hi there 👋
+##Seja bem vindo ao meu perfil👩‍🏫 👋
 
-<!--
-**ProfIvanilda/ProfIvanilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:Olá meu nome é Ivanilda, sou professora de Matemática e este ano estou lecionando Matemática para os  1o. ano do Ensino Médio ( 4 turmas) e Tecnologia e Robótica para os 2o.ano do Ensino Medio ( 2 turmas).
+Meu nome é IVANILDA.
+- Sou professora de matemática e de Tecnologia e Robótica.
+- Estou usando a Plataforma Alura para estudar e ensinar meus alunos.
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo este espaço para compartilhar meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Meu contato📫
+  ivanildafernandes@prof.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/class-studying-teacher-via-vallen-study-gif-15529365)
